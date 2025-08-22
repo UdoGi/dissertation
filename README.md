@@ -10,6 +10,7 @@ The Snakemake and python code written for the different analyses related to the 
 A pdf of the dissertation is provided in the file ***dissertation_gieraths.pdf***
 
 
+## License
 This project is licensed under the terms of the MIT license.
 
 
