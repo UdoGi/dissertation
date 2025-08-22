@@ -1,0 +1,26 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - ivar=1.4.3
+  - samtools=1.21
+  - pysam=0.22.1
+  - pysamstats=1.1.2
+  - python=3.10
+  - bowtie2=2.5.4
+  - pandas=2.2.3
+  - multiqc=1.13
+  - fastp=0.23.2
+  - spades=3.15.5
+  - biopython=1.83
+  - diamond=2.1.10
+  - seqkit=2.9.0
+  - last=1595
+  - muscle=5.1
+  - fastp=0.23.2
+  - pytest=8.3.4
+  - openpyxl=3.1.5
+  - snakemake=7.32.4
+  - seaborn=0.13.2
+  - matplotlib=3.9.2
+  - wget=1.21.4

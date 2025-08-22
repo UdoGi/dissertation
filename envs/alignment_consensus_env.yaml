@@ -1,0 +1,7 @@
+channels:
+  - bioconda
+dependencies:
+  - bowtie2=2.5.4
+  - ivar=1.4.3
+  - samtools=1.21
+  - python=3.10
